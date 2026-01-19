@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @canhwindy
-- Doraemon is my favourite.
+- Doraemon is my favourite character.
 - FPT Hola - 2k4
