@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @canhwindy
-- Doraemon is my favourite character.
-- FPT Hola - 2k4
+- LLM/RAGs, Software Engineering
+- FPT Hola - 20044
